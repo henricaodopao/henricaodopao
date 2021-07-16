@@ -9,6 +9,3 @@
 
 #### Stats:
  ![Henrique's github stats](https://github-readme-stats.vercel.app/api?username=henricaodopao&show_icons=true&theme=dark)
- 
- <p align="left">
- <img src="https://github.com/henricaodopao/henricaodopao/blob/main/LICp9_do.jpg" />
